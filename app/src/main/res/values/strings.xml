@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">VACompanyTechTest</string>
+    <string name="equation">Equation</string>
+    <string name="enter_your_equation">ُEnter Your Equation</string>
+    <string name="add">Add</string>
+    <string name="sub">Sub</string>
+    <string name="mul">Mul</string>
+    <string name="div">div</string>
+    <string name="delay">Delay</string>
+    <string name="enter_delay_in_sec">Enter Delay in Sec...</string>
+    <string name="submit">Submit</string>
+    <string name="gps">Gps</string>
+    <string name="index">index</string>
+    <string name="result">result</string>
+    <string name="pending">pending</string>
+    <string name="pending_equation">Pending equation</string>
+</resources>
